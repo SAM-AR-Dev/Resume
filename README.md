@@ -1,12 +1,12 @@
 # 📄 Semantic HTML Resume
 
-## Preview
+## 👋 About This Project
+This is my very first web development project! It is a personal Resume/CV website built entirely with **pure HTML**.
+
+## 📸 Preview
 ![Website Preview](assets/resume.png)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Status](https://img.shields.io/badge/Status-Learning-yellow)
-
-## 👋 About This Project
-This is my very first web development project! It is a personal Resume/CV website built entirely with **pure HTML**.
 
 The goal of this project was to learn the fundamentals of web structure before moving on to CSS or JavaScript. I focused heavily on **Semantic HTML** to ensure the code is meaningful, accessible, and structured correctly for search engines and screen readers.
 
