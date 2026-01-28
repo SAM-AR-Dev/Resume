@@ -1,7 +1,7 @@
 # 📄 Semantic HTML Resume
 
 ## 👋 About This Project
-This is my very first web development project! It is a personal Resume/CV website built entirely with **pure HTML**.
+It is a personal Resume/CV website built entirely with **pure HTML**.
 
 ## 📸 Preview
 ![Website Preview](assets/resume.png)
